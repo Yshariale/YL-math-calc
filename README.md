@@ -311,7 +311,7 @@ npx serve
 
 Для начала нужно склонировать репозиторий командой 
 ```
-git clone https://github.com/Yshariale/FinalTaskFirstSprint.git
+git clone https://github.com/Yshariale/YL-math-calc.git
 ```
 
 После этого вам нужно перейти в папку с проектом 
