@@ -316,7 +316,7 @@ git clone https://github.com/Yshariale/YL-math-calc.git
 
 После этого вам нужно перейти в папку с проектом 
 ```
-cd FinalTaskFirstSprint
+cd YL-math-calc
 ```
 
 Теперь вы можете запустить проект , но для этогт нужно чтобы был установлен Go версии 1.23.2
