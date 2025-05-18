@@ -3,7 +3,6 @@ package grpcapp
 import (
 	"context"
 	"fmt"
-	"github.com/Yshariale/FinalTaskFirstSprint/internal/config"
 	"github.com/Yshariale/FinalTaskFirstSprint/internal/orchestrator/service"
 	"github.com/Yshariale/FinalTaskFirstSprint/internal/orchestrator/transport/taskgRPC"
 	"github.com/Yshariale/FinalTaskFirstSprint/pkg/logger"
